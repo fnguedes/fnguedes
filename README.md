@@ -4,7 +4,7 @@ I'm a developer, computer science student and passionate about technology
 <ul>
 <li>😍I'm currently in love with React native and Java</li>
 <li>📚 I’m computer science student at federal university of Sergipe (2017)</li>
-<li>🧑🏻‍💻 learning react native, java and database</li>
+<li>🧑🏻‍💻 learning React Native, React, Node and Figma</li>
 <li>⚡One fact:I like to practice physical activity with friends </li>
 </ul>
 <br/>
