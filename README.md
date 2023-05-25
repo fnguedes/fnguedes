@@ -13,7 +13,6 @@ I'm a developer, computer science student and passionate about technology
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fngprogrammer@hotmail.com)
 
 
-![fnguedes GitHub stats](https://github-readme-stats.vercel.app/api?username=fnguedes&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
