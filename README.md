@@ -3,7 +3,7 @@ I'm a developer, computer science student and passionate about technology
 <hr>
 <ul>
 <li>😍I'm currently in love with React native</li>
-<li>📚 I’m computer science student at federal university of Sergipe (2017)</li>
+<li>📚 I’m computer science student at Federal University of Sergipe (2017)</li>
 <li>🧑🏻‍💻 learning React Native, React, Node and Figma</li>
 <li>⚡One fact:I like to practice physical activity and watch anime</li>
 </ul>
