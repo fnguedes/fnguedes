@@ -10,7 +10,7 @@ I'm a developer, computer science student and passionate about technology
 <br/>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-nascimento-guedes-/)
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fngprogrammer@hotmail.com)
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fngprogrammer@hotmail.com)
 
 ![fnguedes GitHub stats](https://github-readme-stats.vercel.app/api?username=fnguedes&show_icons=true&theme=radical)
 
