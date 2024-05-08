@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="350em" src="./assets/Banner.png"/>
+</div>
 
 <h3 align="center">
   Front-end Developer
@@ -13,12 +15,12 @@
   
 </div>
 
-## My Stack
+## 🛠 My Stack
   
 <img src="https://skillicons.dev/icons?i=react,js,ts,vscode,tailwind,git,github,figma,postgres,html,css&theme=dark" />
 
 
-## About me
+## 👨🏻‍💻 About me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Fellipe Nascimento, I am a Front-end Developer and i am majoring in computer science.. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a FullStack Developer.<br />
