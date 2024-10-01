@@ -17,7 +17,7 @@
 
 ## 🛠 My Stack
   
-<img src="https://skillicons.dev/icons?i=react,js,ts,vscode,tailwind,git,github,figma,postgres,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,vscode,tailwind,git,github,figma,postgres,html,css&theme=dark" />
 
 
 ## 👨🏻‍💻 About me
